@@ -11,4 +11,4 @@ Browse through the project files to delve deeper into the data and observe how t
 
 | Header 1 | Header 2 |
 |----------|----------|
-| *Value | Value 2  |
+| Value | Value 2  |

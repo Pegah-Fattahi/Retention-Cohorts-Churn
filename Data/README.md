@@ -8,3 +8,6 @@ The end result is a detailed visualization of weekly retention cohorts, starting
 This project leverages the following technology:
 SQL: For data extraction and manipulation.
 Browse through the project files to delve deeper into the data and observe how the analyses were conducted. Feel free to provide feedback or ask questions. Enjoy exploring!
+
+|Header|Header2|
+|value1|value2|

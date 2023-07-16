@@ -9,6 +9,6 @@ This project leverages the following technology:
 SQL: For data extraction and manipulation.
 Browse through the project files to delve deeper into the data and observe how the analyses were conducted. Feel free to provide feedback or ask questions. Enjoy exploring!
 
-| Header 1 | Header 2 |
-|----------|----------|
-| Value | Value 2  |
+| Header 1 | Header 2 |H3|
+|----------|----------|--|
+| Value | Value 2  |value3|
